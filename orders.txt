@@ -1,0 +1,21 @@
+Order Summary:
+coke x 10 = 19.9
+sprite x 1 = 3.0
+
+Total: 22.9
+
+Order Summary:
+cj x 1 = 3.0
+
+Total: 3.0
+
+Order Summary:
+FANTA x 2 = 8.0
+
+Total: 8.0
+
+Order Summary:
+brrgr x 2 = 6.0
+
+Total: 6.0
+

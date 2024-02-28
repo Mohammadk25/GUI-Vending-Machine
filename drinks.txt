@@ -1,0 +1,2 @@
+FANTA,4.0,0,C:\Users\moham\Downloads\fanta.jpg
+brrgr,3.0,0,C:\Users\moham\Downloads\machine.png
